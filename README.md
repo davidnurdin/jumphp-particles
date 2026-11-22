@@ -1,3 +1,6 @@
+> **⚠️ This repository has moved to [https://git.jumphp.net/jumphp/jumphp-particles](https://git.jumphp.net/jumphp/jumphp-particles)** — it is archived here (read-only) and no longer updated.
+> **⚠️ Ce dépôt a déménagé sur [https://git.jumphp.net/jumphp/jumphp-particles](https://git.jumphp.net/jumphp/jumphp-particles)** — il est archivé ici (lecture seule) et n'est plus mis à jour.
+
 # jumphp/particles
 
 A particle engine for JumPHP games, and the first JumPHP **engine extension** (docs/extensions.md): a Composer package
